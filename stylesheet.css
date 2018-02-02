@@ -250,5 +250,11 @@ li:hover{
 .pic2{
     margin-bottom: -5%;
     width: 100%;
+    display: block;}
+.pic3{
+    margin-right: 25px;
+    width:90%;
     display: block;
+    border-radius: 15px;
+    margin: auto;
 }
