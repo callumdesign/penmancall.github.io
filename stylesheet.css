@@ -216,7 +216,13 @@ li:hover{
 
 
 
-
+p{
+    font-family: "Lato"!important;
+    font-weight: 400;}
+h2{
+    font-family: "Lato"!important;
+    font-weight: 900;!important;
+}
 
 
 
