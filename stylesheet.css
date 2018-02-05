@@ -21,9 +21,12 @@
     }
     .img-heading{
         margin-top: -30px;
-        font-size: 12px!important;}
+        font-size: 24px!important;}
     .img-text{
-        font-size: 8px!important;
+        font-size: 18px!important;
+    }
+    .paragraph{
+        font-size: 25px;
     }
 .sidenav{
     position:relative;
