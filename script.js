@@ -1,8 +1,8 @@
-$(document).scroll(function() {
-  var y = $(this).scrollTop();
-  if (y > 150) {
-    $('.portfolio').show();
-  } else {
-    $('.portfolio').hide();
-  }
+$(document).ready(function(){
+    $(".btn").each(function(){
+       $(this).click(function(){
+          $(this).toggleClass("active");
+
+       });
+    });
 });
