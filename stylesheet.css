@@ -16,13 +16,21 @@
     
     /* On small screens, set height to 'auto' for sidenav and grid */
 @media screen and (max-width: 767px){
+    .img-info{
+        font-size: 1em!important;
+    }
+    .img-heading{
+        margin-top: -30px;
+        font-size: 12px!important;}
+    .img-text{
+        font-size: 8px!important;
+    }
 .sidenav{
     position:relative;
     height: auto;
     padding: 15px;}
     li:hover{
-        transform: none;
-    }
+        transform: none; }
 .row.content {height: auto;}}
  
 .btn:focus, .btn:active {
