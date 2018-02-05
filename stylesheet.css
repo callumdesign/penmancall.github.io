@@ -23,11 +23,8 @@
         margin-top: -30px;
         font-size: 20px!important;}
     .img-text{
-        font-size: 14px!important;
-    }
-    .paragraph{
-        font-size: 1px!important;
-    }
+        font-size: 14px!important;}
+
 .sidenav{
     position:relative;
     height: auto;
@@ -60,7 +57,10 @@ hr{
 .subheading{
     margin-top: 1em;
     font-weight: 400;}
-
+.portfolio-heading{
+    margin-top: 70px;
+    font-size: 4em!important;
+}
 
 
 .social-links{
